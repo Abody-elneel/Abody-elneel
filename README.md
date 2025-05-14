@@ -11,8 +11,11 @@
 <br><br>
 
 <h2>💫 About Me:</h2>
+<br>
 - :school: Faculty of Computers & Information Systms at Luxor University. 
+<br>
 - :student: Computer Science Student.
+<br>
 🎓 Junior Data Science Engineer.
 
 
@@ -20,7 +23,7 @@
 <p align="center">
 	<a href="mailto:abodyelneel14@gmail.com" target = "_blank"><img img src="logos/Gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>
 	<a href="https://github.com/abdo-elneel" target = "white"><img src="logos/Github.svg" alt="GitHub" title="github" width="50px"/></a>
-	<a href="https://www.linkedin.com/in/0xabdulrahman/" target = "_blank"><img src="logos/Linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+	<a href="https://www.linkedin.com/in/abdelrahman-elneel-17ab36298/" target = "_blank"><img src="logos/Linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
 </p>
 
 
